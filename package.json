@@ -1,7 +1,7 @@
 {
   "name": "my-intro-page",
   "version": "0.1.0",
-  "homepage": "https://github.com/lsw507/internetprogramming_10th_homework",
+  "homepage": "https://lsw507.github.io/internetprogramming_10th_homework",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
